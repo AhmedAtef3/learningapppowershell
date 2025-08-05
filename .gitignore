@@ -1,0 +1,71 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Rider files
+.idea/
+
+## VS Code settings
+.vscode/
+.vs/
+
+## ASP.NET Core secrets
+**/secrets.json
+**/secrets/
+
+## Logs
+*.log
+logs/
+*.tlog
+
+## OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Dotnet CLI
+project.assets.json
+project.nuget.cache
+artifacts/
+
+## Publish directory
+wwwroot/lib/
+wwwroot/dist/
+wwwroot/node_modules/
+
+## Node (if using frontend packages)
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+package-lock.json
+
+## Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## Temporary files
+*.tmp
+*.temp
